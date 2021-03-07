@@ -1,0 +1,15 @@
+{
+  "name": "osm_geojson_downloader",
+  "version": "0.0.1",
+  "description": "Download OSM data from Overpass Turbo and convert to geojson",
+  "main": "index.js",
+  "scripts": {
+    "action": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roll Cooksville",
+  "license": "ISC",
+  "dependencies": {
+    "osmtogeojson": "^3.0.0-beta.4"
+  }
+}
