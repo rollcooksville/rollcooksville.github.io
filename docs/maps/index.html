@@ -185,7 +185,7 @@
             </p>
             <ul style="margin-top: 0; margin-left: 1em;">
                 <li>Get to know our <a href="https://github.com/rollcooksville/OSM-Bike-Parking-Tagging-Guide/blob/master/TAGGING.md"><strong>Bike Parking Tagging Guide</strong></a> for OpenStreetMap</li>
-                <li>Use <a href="https://mapcomplete.osm.be/cyclofix?z=13&lat=43.59102&lon=-79.6015&background=CyclOSM&layer-bike_cafes=false&layer-bicycle_library=false&layer-bicycle_tube_vending_machine=false&layer-bike_themed_object=false&layer-bike_cleaning=false"><strong>Map Complete</strong></a> and their easy to use question and answer format to add bike parking.</li>
+                <li>Use <a href="https://mapcomplete.osm.be/cyclofix?z=13&lat=43.59102&lon=-79.6015&background=CyclOSM&layer-bike_cafes=false&layer-bicycle_library=false&layer-bicycle_tube_vending_machine=false&layer-bike_themed_object=false&layer-bike_cleaning=false&layer-bike_shops=false"><strong>Map Complete</strong></a> and their easy to use question and answer format to add bike parking.</li>
                 <li>Edit <a href="https://www.openstreetmap.org/#map=14/43.5859/-79.6308"><strong>OpenStreetMap</strong></a> directly to add the bike parking</li>
                 <li>Read our <a href="https://github.com/rollcooksville/OSM-Bike-Parking-Tagging-Guide/blob/master/README.md"><strong>Step by step</strong></a> instructions and screenshots for how to use Map Complete and OpenStreetMap</li>
             </ul>
@@ -405,7 +405,7 @@
                 function mapCompleteHash(location_hash){
                     var zoom = location_hash.slice(location_hash.search("=")+1,location_hash.search("/"));
                     var lat_long = location_hash.slice(location_hash.search("/")+1,location_hash.length-8).split("/",2);
-                    return zoom + '' + '&lat=' + lat_long[0] + '&lon=' + lat_long[1] + '&background=CyclOSM&layer-bike_cafes=false&layer-bicycle_library=false&layer-bicycle_tube_vending_machine=false&layer-bike_themed_object=false&layer-bike_cleaning=false#';
+                    return zoom + '' + '&lat=' + lat_long[0] + '&lon=' + lat_long[1] + '&background=CyclOSM&layer-bike_cafes=false&layer-bicycle_library=false&layer-bicycle_tube_vending_machine=false&layer-bike_themed_object=false&layer-bike_cleaning=false&layer-bike_shops=false#';
                 }
 
                 // Set up routing / edit / help / legend buttons
