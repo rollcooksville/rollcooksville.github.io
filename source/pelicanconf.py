@@ -27,7 +27,8 @@ LINKS = (('Mississauga Bikes', 'https://www.mississaugabikes.ca/'),
          ('Peel Trails Map', 'http://walkandrollpeel.ca/map/themap.asp'),)
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/RollCooksville'),
+SOCIAL = (('Instagram',"https://www.instagram.com/rollcooksville/"),
+          ('Twitter', 'https://twitter.com/RollCooksville'),
           ("Facebook Page", "https://facebook.com/RollCooksville/","Facebook"),
           ("Facebook Group", "https://facebook.com/groups/rollcooksville/","Facebook"),)
 
