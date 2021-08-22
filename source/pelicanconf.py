@@ -21,8 +21,9 @@ AUTHOR_FEED_RSS = None
 SHOW_ARTICLE_AUTHOR = False
 
 # Blogroll
-LINKS = (('Mississauga Bikes', 'https://www.mississaugabikes.ca/'),
-         ('2018 Mississauga Bike Map', 'https://www.mississaugabikes.ca/wp-content/uploads/2018/07/Mississauga-Cycling-Map-2018-web-with-panels.pdf'),
+LINKS = (('Mississauga Bike Parking','https://rollcooksville.github.io/maps/parking.html#map=15/43.5755/-79.6161/cyclosm'),
+         ('Mississauga Bikes', 'https://www.mississaugabikes.ca/'),
+         ('2021 Mississauga Bike Map', 'https://www.mississaugabikes.ca/wp-content/uploads/2021/05/Mississauga-Cycling-Map-2021-Web-version.pdf'),
          ('Walk and Roll Peel', 'http://walkandrollpeel.ca/'),
          ('Peel Trails Map', 'http://walkandrollpeel.ca/map/themap.asp'),)
 
