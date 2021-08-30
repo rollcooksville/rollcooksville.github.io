@@ -12,5 +12,5 @@ Upcoming Events
    :header: "Date", "Ride Name", "Start Location", "Route", "Registration"
    :widths: 20, 20, 20,10,20
 
-   "Aug 26, 2021 7:00PM", "City Centre West Slow Roll", "Zonta Meadows Park", `RideWithGPS <https://ridewithgps.com/routes/37143930>`__,`Event Registration <https://www.eventbrite.ca/e/roll-cooksville-city-centre-west-slow-roll-tickets-167679065599>`__
-   "Aug 29, 2021 9:30AM", "Bikes & Bites Halo Espresso Bar Ride", "Mississauga Valley CC", `RideWithGPS <https://ridewithgps.com/routes/37232353>`__,`Event Registration <https://www.eventbrite.ca/e/roll-cooksville-bikes-bites-halo-espresso-bar-ride-tickets-167995792939>`__
+   "Sept 9th, 2021 6:30PM", "City Centre West Slow Roll", "Zonta Meadows Park", `RideWithGPS <https://ridewithgps.com/routes/37143930>`__,`Event Registration <https://www.eventbrite.ca/e/roll-cooksville-city-centre-west-slow-roll-tickets-168812357305>`__
+
