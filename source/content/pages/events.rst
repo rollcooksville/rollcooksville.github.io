@@ -12,5 +12,5 @@ Upcoming Events
    :header: "Date", "Ride Name", "Start Location", "Route", "Registration"
    :widths: 20, 20, 20,10,20
 
-   "Sept 9th, 2021 6:30PM", "City Centre West Slow Roll", "Zonta Meadows Park", `RideWithGPS <https://ridewithgps.com/routes/37143930>`__,`Event Registration <https://www.eventbrite.ca/e/roll-cooksville-city-centre-west-slow-roll-tickets-168812357305>`__
+   "Sept 23rd, 2021 6:30PM", "Mississauga Valley Slow Roll", "Mississauga Valley CC", `RideWithGPS <https://ridewithgps.com/routes/37486298>`__,`Event Registration <https://www.eventbrite.ca/e/roll-cooksville-mississauga-valley-slow-roll-tickets-170761671757>`__
 
